@@ -120,8 +120,8 @@ QuantAI는 **수치 계산은 퀀트 엔진이, 언어 처리는 LLM이** 맡도
 | 레포지토리 | 설명 | 담당 |
 |---|---|---|
 | [**AI**](https://github.com/QuantAI2026/AI) | Python · FastAPI · LangGraph 기반 AI 서버 (추천 그래프 8노드, 실행 그래프) | 이주원, 권희재 |
-| [**BE**](https://github.com/QuantAI2026/BE) | Spring Boot 백엔드 (인증, 스케줄러, 리스크 검사, 주문 API) | 이현정 |
-| [**FE**](https://github.com/QuantAI2026/FE) | React · TypeScript 사용자 웹 | 이현정 |
+| [**BE**](https://github.com/QuantAI2026/Quant-BE.git) | Spring Boot 백엔드 (인증, 스케줄러, 리스크 검사, 주문 API) | 이현정 |
+| [**FE**](https://github.com/QuantAI2026/Quant-FE.git) | React · TypeScript 사용자 웹 | 이현정 |
 
 각 레포지토리의 README에서 실행 방법, 환경변수, API 명세를 확인할 수 있습니다.
 
