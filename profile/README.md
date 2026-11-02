@@ -110,7 +110,7 @@ QuantAI는 **수치 계산은 퀀트 엔진이, 언어 처리는 LLM이** 맡도
 | 이름 | GitHub | 역할 | 담당 |
 |:---:|:---:|---|---|
 | **권희재** | [@haileybaileyo](https://github.com/haileybaileyo) | 퀀트 엔진 | 주가 수집·검증, 기술 지표, 모멘텀 전략, 롤링 백테스트 |
-| **이주원** | [@jw-jenna](https://github.com/jw-jenna) | 뉴스·LLM 엔진 | 뉴스·공시 수집, 감성 분석, 포트폴리오 비중·추천 근거, 시장 리포트, 가상 매매 |
+| **이주원** | [@jenna-jw](https://github.com/jenna-jw) | 뉴스·LLM 엔진 | 뉴스·공시 수집, 감성 분석, 포트폴리오 비중·추천 근거, 시장 리포트, 가상 매매 |
 | **이현정** | [@hyhy-j](https://github.com/hyhy-j) | 시스템 설계 · 백엔드 · 프론트엔드 | 아키텍처·DB 설계, Spring 백엔드(인증·스케줄러·리스크 검사), React 웹 |
 
 ---
